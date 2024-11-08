@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @drmeto
 - 👀 I’m interested in webRTC applications for clinical purposes and social media platforms
-- 🌱 I’m currently learning Javascript, css and 
-- 💞️ I’m looking to collaborate onbuilding awesome comms applications
+- 🌱 I’m currently learning Javascript, CSS and Node JS
+- 💞️ I’m looking to collaborate on building awesome comms applications
 - 📫 How to reach me .. send me a pull request. Don't forget to showcase your coding skills so that I can be sure that our interests align.
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I hate marmite & cylons.
 
 <!---
